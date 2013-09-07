@@ -2,7 +2,6 @@
  * File: SudokuSolver.cpp
  * ----------------------
  * Name: Charles Guan
- * Section: David Zeng
  * This program solves Sudoku puzzles and
  * scaled-size variants of Sudoku puzzles.
  */
